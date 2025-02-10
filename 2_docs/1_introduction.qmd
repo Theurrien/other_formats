@@ -1,0 +1,9 @@
+---
+format: html
+editor: visual
+---
+
+-   Start broad, importance of (chemistry) education
+-   Narrow down (vR as a education tool)
+-   Research questions
+-   State hypotheses
